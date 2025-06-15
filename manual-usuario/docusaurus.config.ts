@@ -11,11 +11,10 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://your-site.com',
-  baseUrl: '/',
-
-  organizationName: 'wayplanner-org', // Cambia por tu usuario u organización GitHub
-  projectName: 'wayplanner-docs', // Cambia por el nombre del repo
+  url: 'https://Vegalh26.github.io',
+  baseUrl: '/ManualUsuarioWayPlanner/',
+  organizationName: 'Vegalh26',
+  projectName: 'ManualUsuarioWayPlanner', // Cambia por el nombre del repo
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
