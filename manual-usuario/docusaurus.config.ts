@@ -11,10 +11,10 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://Vegalh26.github.io',
+  url: 'https://vegalh26.github.io',
   baseUrl: '/ManualUsuarioWayPlanner/',
-  organizationName: 'Vegalh26',
-  projectName: 'ManualUsuarioWayPlanner', // Cambia por el nombre del repo
+  organizationName: 'Vegalh26', // Tu usuario de GitHub
+  projectName: 'ManualUsuarioWayPlanner', // Tu repo de GitHub // Cambia por el nombre del repo
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

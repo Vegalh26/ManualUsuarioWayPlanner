@@ -2,7 +2,7 @@
   "name": "manual-usuario",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://Vegalh26.github.io/ManualUsuarioWayPlanner",
+  "homepage": "https://vegalh26.github.io/ManualUsuarioWayPlanner",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
